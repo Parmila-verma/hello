@@ -2,7 +2,7 @@ body{
     background: red !important;
 }
 
- link::after {
+ .link::after {
      content: "";
      position: absolute !important;
      left: 0 !important;
