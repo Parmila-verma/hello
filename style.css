@@ -39,3 +39,7 @@
   .w-webflow-badge{
     display: none !important;
   }
+
+  .image-container{
+    border: 1px solid red !important;
+  }
