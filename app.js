@@ -1,5 +1,5 @@
-  
-<script>
+
+{/* <script>
     const container = document.getElementById('hoverImage');
     const image = container.querySelector('img');
 
@@ -17,4 +17,5 @@
       container.addEventListener('mouseleave', () => {
         image.style.transform = 'scale(1) translate(0, 0)';
       });
-</script>
+
+</script> */}
